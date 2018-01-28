@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 4679c50c224ce474facaf659b08e81f5
+timeCreated: 1517115129
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000040000000500000006000000070000000800000009000000
+  assetHash:
+    serializedVersion: 2
+    Hash: f315794bf18bc5f235cd5db5f330ab91
+  longitude: 0
+  latitude: 0
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0, y: 12.7, z: 0}
+      lookAt: {x: 0, y: 0, z: 0}
+      up: {x: 0, y: 0, z: 1}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: wheel of big truck (pick-up)#1
+    100004: wheel of big truck (pick-up)#1 1
+    100006: wheel of big truck (pick-up)#1 2
+    100008: wheel of big truck (pick-up)#1 3
+    400000: //RootNode
+    400002: wheel of big truck (pick-up)#1
+    400004: wheel of big truck (pick-up)#1 1
+    400006: wheel of big truck (pick-up)#1 2
+    400008: wheel of big truck (pick-up)#1 3
+    2100000: _defaultMat
+    2100002: Color_1
+    2100004: Color_2
+    2100006: Color_3
+    2100008: Color_4
+    2100010: Color_5
+    2100012: Color_6
+    2100014: Color_7
+    2100016: Color_8
+    2100018: Color_9
+    2100020: Color_10
+    2100022: Color_11
+    2100024: Color_12
+    2100026: Color_13
+    2100028: Color_14
+    2100030: Color_15
+    2100032: Color_16
+    2100034: Color_17
+    2100036: Color_18
+    2100038: Color_19
+    2100040: Color_20
+    2100042: Color_21
+    2100044: Color_22
+    2100046: Color_23
+    2100048: Color_24
+    2100050: Color_25
+    2100052: Color_26
+    2100054: Color_27
+    2100056: Color_28
+    2100058: Color_29
+    2100060: Color_30
+    2100062: Color_31
+    2100064: _1
+    2100066: Color_32
+    2100068: Color_33
+    2100070: Color_34
+    2100072: Color_35
+    2100074: Color_36
+    2100076: Color_37
+    2100078: Color_C1
+    2100080: Color_C2
+    2100082: Color_38
+    2100084: Color_39
+    2100086: Color_40
+    2100088: Color_41
+    2100090: _2
+    2100092: _3
+    2100094: Color_42
+    2100096: Color_43
+    2100098: Color_44
+    2100100: Color_45
+    2100102: Color_46
+    2100104: Color_47
+    2100106: Color_48
+    2100108: Color_49
+    2100110: Color_50
+    2100112: Color_51
+    2100114: _4
+    2100116: Color_52
+    2100118: Color_53
+    2100120: Color_54
+    2100122: Color_55
+    2100124: Color_56
+    2100126: Color_57
+    2100128: _5
+    2100130: _6
+    2100132: Color_58
+    2100134: Color_59
+    2100136: _7
+    2100138: _8
+    2100140: _9
+    2100142: _10
+    2100144: _12
+    2100146: _13
+    2100148: _14
+    2100150: _15
+    2100152: Color_71
+    2100154: Color_72
+    2100156: _16
+    2100158: _17
+    2100160: Color_73
+    2100162: Color_74
+    2100164: Color_75
+    2100166: Color_76
+    2100168: Color_77
+    2100170: Color_78
+    2100172: _18
+    2100174: Color_79
+    2100176: Color_80
+    2100178: Color_81
+    2100180: Color_82
+    2100182: Color_83
+    2100184: Color_84
+    2100186: Color_85
+    2100188: Color_86
+    2100190: Color_87
+    2100192: Color_88
+    2100194: _19
+    2100196: _20
+    2100198: Color_89
+    2100200: Color_90
+    2100202: Color_91
+    2100204: Color_92
+    2100206: Color_C3
+    2100208: Color_C4
+    2100210: Color_93
+    2100212: Color_94
+    2100214: Color_95
+    2100216: Color_96
+    2100218: Color_97
+    2100220: Color_98
+    2100222: _21
+    2100224: Color_99
+    2100226: Color_100
+    2100228: Color_101
+    2100230: Color_102
+    2100232: Color_103
+    2100234: Color_104
+    2100236: Color_105
+    2100238: Color_106
+    2100240: Color_107
+    2100242: Color_108
+    2100244: Color_109
+    2100246: Color_110
+    2100248: Color_111
+    2100250: Color_112
+    2100252: Color_113
+    2100254: Color_114
+    2100256: Color_115
+    2100258: Color_116
+    2100260: Color_117
+    2100262: Color_118
+    2100264: Color_119
+    2100266: Color_120
+    2100268: Color_121
+    2100270: Color_122
+    2100272: Color_123
+    2100274: Color_124
+    2100276: Color_125
+    2100278: Color_126
+    2100280: Color_127
+    2100282: Color_128
+    2100284: Color_129
+    2100286: Color_60
+    2100288: Color_61
+    2100290: Color_62
+    2100292: Color_63
+    2100294: Color_64
+    2100296: Color_65
+    2100298: Color_66
+    2100300: Color_67
+    2100302: Color_68
+    2100304: Color_69
+    2100306: Color_70
+    2100308: _11
+    2300000: //RootNode
+    2300002: wheel of big truck (pick-up)#1
+    2300004: wheel of big truck (pick-up)#1 1
+    2300006: wheel of big truck (pick-up)#1 2
+    2300008: wheel of big truck (pick-up)#1 3
+    3300000: //RootNode
+    3300002: wheel of big truck (pick-up)#1
+    3300004: wheel of big truck (pick-up)#1 1
+    3300006: wheel of big truck (pick-up)#1 2
+    3300008: wheel of big truck (pick-up)#1 3
+    4300000: Mesh truck
+    4300002: Mesh wheel of big truck (pick-up)#1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

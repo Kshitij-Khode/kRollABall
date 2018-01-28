@@ -1,9 +1,8 @@
-.gitignore
-Library/
-Temp/
-Obj/
-Build/
-Builds/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory

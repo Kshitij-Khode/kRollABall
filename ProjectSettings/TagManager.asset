@@ -4,7 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - ice
+  - projectile
+  - FxTemporaire
   - pickup
+  - sand
+  - respawn
+  - checkpoint
   layers:
   - Default
   - TransparentFX
